@@ -14,23 +14,19 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: avatar-ross.png
 author: Ross Giovanniello
-author_bio: Hello world, I am Ross, devlopr-jekyll 
+author_bio: Ross is an industrial control systems expert, volunteer, father, artist, and minister.
 author_email: "ross@giovanniello.com"
 author_location: East Coast, USA
 author_website_url: "https://rossgiovanniello.com"
-typewrite-text: Save money, build it right the first time.
+typewrite-text: Check out my work, click contact if you need something done.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -72,8 +68,8 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
+github_username:  rosseyg
+facebook_username: ross.giovanniello
 linkedin_username: johndoe
 behance_username: johndoe
 instagram_username: johndoe
