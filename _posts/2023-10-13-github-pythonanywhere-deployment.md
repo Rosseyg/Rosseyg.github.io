@@ -1,6 +1,6 @@
 ---
 layout: post
-author: ross
+author: Ross Giovanniello
 ---
 
 # Web app deployment for simple programs
