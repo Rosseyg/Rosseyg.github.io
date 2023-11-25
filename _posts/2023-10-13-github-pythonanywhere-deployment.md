@@ -5,6 +5,7 @@ author: Ross Giovanniello
 
 # Web app deployment for simple programs
 ___
+
 ## Highlights
 
 - Intermediate level
@@ -22,7 +23,9 @@ ___
 
 This approach is idea for small projects with junior to mid-level python developers yet can scale if needed.  The free tiers on Github and Pythonanywhere offer version control and one daily task respectively, enough to get started at no up-front cost.  Using the Django web framework can be used internally to store and process data and can be scaled to a full featured web app if needed
 ___
+
 ## Code samples
+
 ### Create and use virtual environment on mac
 ```
 python3.X -m venv myVenv

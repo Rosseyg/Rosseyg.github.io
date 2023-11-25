@@ -6,3 +6,9 @@
 @import "devlopr";
 
 /* custom css goes below */
+
+
+/* within a specific div with a particular class, you can use the * (universal selector) to target all elements within that div */
+.waka-stats * {
+        font-size: 2rem;
+    }
